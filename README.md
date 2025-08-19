@@ -14,7 +14,7 @@ robot in Gazebo and ROS.
     your workspace:**
 
 	source /opt/ros/kinetic/setup.bash
-	souce ~/catkin_ws/devel/setup.bash
+	source ~/catkin_ws/devel/setup.bash
 	
  2. **Start the Jackal simulation in Gazebo with the front laser enabled:**
 
